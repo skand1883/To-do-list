@@ -66,7 +66,6 @@ document.addEventListener("DOMContentLoaded",()=>
              const label = document.createElement("label");
             label.class= "cont";
             const input = document.createElement("input");
-            input.
              input.type="checkbox";
             input.checked="checked";
              const spana = document.createElement("span");
